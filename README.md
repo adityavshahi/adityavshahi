@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adityavshahi
 - 👀 I’m interested in open source contribution .
-- 🌱 I’m currently learning Java & Python
+- 🌱 I’m currently learning JavaScript & Python
 - 💞️ I’m looking to collaborate on a lot of open source Projects
 
 <!---
