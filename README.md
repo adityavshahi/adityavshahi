@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @adityavshahi
-- 👀 I’m interested in open source contribution .
-- 🌱 I’m currently learning JavaScript & Python
-- 💞️ I’m looking to collaborate on a lot of open source Projects
+
+Updates In progress ....
 
 <!---
 adityavshahi/adityavshahi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
